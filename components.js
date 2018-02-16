@@ -9,6 +9,9 @@ Compoenents require Jquery, bootstrap, web3.js and vue.js
 
 <script src="libs/web3.min.js"></script>
 
+for outputing time the following library is also needed
+https://github.com/EvanHahn/HumanizeDuration.js/blob/master/humanize-duration.js
+
 */
 
 //output ethereum addressses with an etherscan link
